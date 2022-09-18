@@ -1,0 +1,54 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Первый герой",
+      "description": "Первый герой в рейтинге!",
+      "element": "fire"
+    },
+    {
+      "name": "Denys",
+      "description": "ewrfegrgr",
+      "element": "",
+      "id": "4ff894e4-3f38-4fd5-8abc-c7d703fb5e29"
+    },
+    {
+      "name": "John",
+      "description": "fly",
+      "element": "earth",
+      "id": "0b989ff2-3b56-4a72-9bb9-44a781d318a3"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "all",
+      "label": "все",
+      "style": "btn btn-outline-dark"
+    },
+    {
+      "id": "fire",
+      "name": "fire",
+      "label": "огонь",
+      "style": "btn btn-danger"
+    },
+    {
+      "id": "water",
+      "name": "water",
+      "label": "вода",
+      "style": "btn btn-primary"
+    },
+    {
+      "id": "wind",
+      "name": "wind",
+      "label": "ветер",
+      "style": "btn btn-success"
+    },
+    {
+      "id": "earth",
+      "name": "earth",
+      "label": "земля",
+      "style": "btn btn-secondary"
+    }
+  ]
+}
